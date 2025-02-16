@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Double-A Battery 🔋🔋
-I apologize in advance for being M.I.A.
-Intend your puns, cowards~
-
-https://www.desmos.com/calculator/e2gpm9nsvx
+<p>Double-A Battery 🔋🔋 </p>
+<p>I apologize in advance for being M.I.A. </p>
+<p>Intend your puns, cowards~ </p>
+<p></p>
+<p><a href="https://www.desmos.com/calculator/e2gpm9nsvx">🦔🦔🦔🦔🦔</a> </p>
